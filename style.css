@@ -1,0 +1,18 @@
+/***************
+
+COMMON
+
+****************/
+
+body{
+    font-family: "moonspace",sans-serif;
+}
+
+.font-primary{
+    color:blue
+}
+
+.title-icon{
+    font-size: 20px;
+    font-weignt: bold;
+}
